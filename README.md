@@ -14,26 +14,39 @@ I used custom workflows, [dataloader.io](https://www.dataloader.io/), Apex for a
 - **Mobile App**: Mobile app for quick access.
 
 ## Screenshots
+
 - ![Features](images/features.png "Project Features")  
-  **Overview of Main Features**: Displays primary functionalities, including data import, reporting, and automation.
-  
+  **Overview of Main Features**: Displays primary functionalities, including data import, reporting, and automation.  
+
+&nbsp;  
+
 - ![Bulk Data Import](images/bulkdataimport.jpg "Data Sync Overview")  
-  **Data Sync Overview**: Screenshot showcasing bulk data import through *dataloader.io*, with seamless record synchronization.
-  
+  **Data Sync Overview**: Screenshot showcasing bulk data import through *dataloader.io*, with seamless record synchronization.  
+
+&nbsp;  
+
 - ![Dashboard View](images/tableaudashboard.jpg "Insight Analytics Dashboard")  
-  **Insight Analytics Dashboard**: Interactive dashboard powered by Tableau, providing visual insights into skill management data.
-  
+  **Insight Analytics Dashboard**: Interactive dashboard powered by Tableau, providing visual insights into skill management data.  
+
+&nbsp;  
+
 - ![Workflow Automation](images/screen_flow.png "User Compliance Flow")  
-  **User Compliance Flow**: Automated workflow screen, ensuring users meet compliance standards (ID verification, behavior check, etc.).
-  
+  **User Compliance Flow**: Automated workflow screen, ensuring users meet compliance standards (ID verification, behavior check, etc.).  
+
+&nbsp;  
+
 - ![Integrated App](images/mobileapp.jpg "Salesforce Integrated Mobile App")  
-  **Salesforce Integrated App**: Mobile app screenshot, providing quick access to real-time data visualizations and reports and many other features.
-  
+  **Salesforce Integrated App**: Mobile app screenshot, providing quick access to real-time data visualizations and reports and many other features.  
+
+&nbsp;  
+
 - ![Automatic Email Notification System](images/automated_email.jpg "Automated Email Notification System")  
-  **Automated Email Notification System**: Automatic email alert setup, keeping users informed on key updates.
-  
+  **Automated Email Notification System**: Automatic email alert setup, keeping users informed on key updates.  
+
+&nbsp;  
+
 - ![Chatter](images/chatter.png "Org-Wide Collaboration Feed")  
-  **Org-Wide Collaboration Feed**: Salesforce Chatter screenshot, enabling organization-wide collaboration and team engagement.
+  **Org-Wide Collaboration Feed**: Salesforce Chatter screenshot, enabling organization-wide collaboration and team engagement.  
 
 ## Tools Used
 - **Salesforce Admin**
@@ -41,4 +54,4 @@ I used custom workflows, [dataloader.io](https://www.dataloader.io/), Apex for a
 - **Tableau**
 
 ## Contact
-Feel free to reach out to me at [saisindusri@gmail.com](mailto:saisindusri@gmail.com) for any questions or collaboration opportunities.
+Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/saisindusrig) for any questions or collaboration opportunities.
